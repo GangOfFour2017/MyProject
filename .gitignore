@@ -12,9 +12,3 @@ Saved
 *.xcworkspace
 Content/StarterContent/Architecture/Floor_400x400.uasset
 Content/StarterContent/Architecture/Floor_400x400.uasset
-
-Build/MacNoEditor/FileOpenOrder/CookerOpenOrder.log
-
-Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
-
-Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
